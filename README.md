@@ -1,2 +1,3 @@
 # My-sql-dev
-My SQL user for 
+My SQL user for test devlopment
+
